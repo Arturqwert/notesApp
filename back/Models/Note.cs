@@ -1,4 +1,4 @@
-﻿namespace WebApplication4.Models
+﻿namespace notesApp.Models
 {
     public class Note
     {

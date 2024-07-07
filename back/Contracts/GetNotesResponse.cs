@@ -1,4 +1,4 @@
-﻿namespace WebApplication4.Contracts
+﻿namespace notesApp.Contracts
 {
     public record GetNotesResponse(List<NoteDto> Notes);
 }

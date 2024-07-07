@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
-using WebApplication4.Contracts;
-using WebApplication4.DataAccess;
-using WebApplication4.Models;
+using notesApp.Contracts;
+using notesApp.DataAccess;
+using notesApp.Models;
 
-namespace WebApplication4.Controllers
+namespace notesApp.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -6,7 +6,7 @@
     <ProjectGuid>5921369a-37aa-4413-8238-91b03e7574ca</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
-    <DockerServiceName>webapplication4</DockerServiceName>
+    <DockerServiceName>notesApp</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include="docker-compose.override.yml">

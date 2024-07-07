@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication4.Models;
+using notesApp.Models;
 
-namespace WebApplication4.DataAccess
+namespace notesApp.DataAccess
 {
     public class NotesDBContext : DbContext 
     {

@@ -1,4 +1,4 @@
-﻿namespace WebApplication4.Contracts
+﻿namespace notesApp.Contracts
 {
     public record NoteDto(Guid Id, string Name, string Description, DateTime CreatedDate);
 }

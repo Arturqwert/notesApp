@@ -1,8 +1,8 @@
 version: '3.4'
 
 services:
-  webapplication4:
-    image: ${DOCKER_REGISTRY-}webapplication4
+  notesApp:
+    image: ${DOCKER_REGISTRY-}notesApp
     build:
       context: .
       dockerfile: Dockerfile

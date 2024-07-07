@@ -1,7 +1,7 @@
 
-using WebApplication4.DataAccess;
+using notesApp.DataAccess;
 
-namespace WebApplication4
+namespace notesApp
 {
     public class Program
     {
